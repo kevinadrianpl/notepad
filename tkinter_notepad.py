@@ -194,8 +194,6 @@ class Notepad:
 		self.__root.mainloop()
 
 
-
-
 # Main application
 notepad = Notepad(width=800,height=600)
 notepad.run()
